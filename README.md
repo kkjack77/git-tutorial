@@ -1,2 +1,4 @@
-#1行だけMarkdown記法で見出しを記述しました。
+<<<<<<< HEAD
+#Gitチュートリアル
     - feature-A
+    - fix-B
