@@ -1,4 +1,5 @@
 #Gitチュートリアル
     - feature-A
     - fix-B
-    -future-C
+    -feature-C
+    -feature-D
